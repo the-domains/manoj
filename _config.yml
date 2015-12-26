@@ -1,0 +1,28 @@
+name: manoj
+favicon: null
+layout_spectrum: 0.8269348677713424
+typography_spectrum: 0.7323352552484721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10254874732345343
+  lightness: 0.9004909719806165
+  saturation: 0.5394143860321492
+  rhythmicContrast: 0.9530935506336391
+purpose: []
